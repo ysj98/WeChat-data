@@ -29,7 +29,7 @@
 ## 工具
 
 - [uni-app ★36.1k+](https://github.com/dcloudio/uni-app) - 使用 Vue 语法开发小程序、H5、App的统一框架
-- [Taro ★30.6k+](https://github.com/NervJS/taro) - 使用 React 的方式开发小程序的框架，同时支持生成多端应用
+- [Taro ★30.6k+](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用
 - [WePY ★21.7k+](https://github.com/Tencent/wepy) -  支持组件化的小程序开发框架
 - [mpvue ★20.4k+](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
 - [chameleon ★8.6k+](https://github.com/didi/chameleon) - 一套代码运行多端，一端所见即多端所见
